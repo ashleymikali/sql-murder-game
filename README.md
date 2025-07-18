@@ -1,8 +1,16 @@
-# sql-murder-game
-A straightforward, Python-based implementation of Knight Lab's 'SQL Murder Mystery'.
+# 'SQL Murder Mystery' with Python
 
-Home page for Knight Lab's project: https://mystery.knightlab.com/
+A Python-based implementation of [Northwestern University Knight Lab's](https://github.com/NUKnightLab/sql-mysteries) 'SQL Murder Mystery'.
 
-Repository for the project: https://github.com/NUKnightLab/sql-mysteries
+This project uses Python and SQLite to query a database and simulate an investigation. Database querying techniques such as filters and joins were used.
 
-The database used was found here: https://www.kaggle.com/datasets/johnp47/sql-murder-mystery-database/data
+### Tools used
+
+- Python 3.x
+- SQLite3
+
+------------------------------------------------------------------------
+
+## Credits
+
+[SQL Murder Mystery - Northwestern University Knight Lab](https://mystery.knightlab.com/)
